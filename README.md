@@ -5,15 +5,6 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false" />
-  </div>
-  <div style="text-align: center; margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </div>
-</div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
