@@ -42,10 +42,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" onclick="window.open('YOUR_TELEGRAM_LINK', '_blank')" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" onclick="window.open('YOUR_INSTAGRAM_LINK', '_blank')" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" onclick="window.open('YOUR_LINKEDIN_LINK', '_blank')" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" onclick="window.open('YOUR_FACEBOOK_LINK', '_blank')" />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" onclick="window.open('YOUR_YOUTUBE_LINK', '_blank')" />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" onclick="window.open('YOUR_PORTFOLIO_LINK', '_blank')" />
 </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirjonFff&icon=0&color=0)](https://visitcount.itsvg.in)
