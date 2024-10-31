@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Amirjan and I'm a frontend deweloper, from Tajikistan.</h2>
+<h2 align="center">Hi 👋! My name is Amirjan, and I'm a frontend developer from Tajikistan.</h2>
 
 ###
 <div align="center">
