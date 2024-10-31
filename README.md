@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋! My name is Amirjan and I'm a frontend deweloper, from Tajikistan.</h2>
 
 ###
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&hide=stars)&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ###
 
 <div align="center">
@@ -11,6 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" title="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" title="Redux" />
   <img width="12" />
@@ -33,9 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" title="C#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" title="Next.js" />
-</div>
+ </div>
 
 ###
 
