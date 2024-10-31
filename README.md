@@ -2,10 +2,9 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&hide=stars" alt="javascript logo" title="JavaScript" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="javascript logo" title="JavaScript" />
+<img src="https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&hide=stars"  height="100" alt="javascript logo" title="JavaScript" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100" alt="javascript logo" title="JavaScript" />
 </div>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
