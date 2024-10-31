@@ -28,6 +28,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="mui logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="Figma logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="30" alt="API logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" height="30" alt="Web logo" />
 </div>
 
 
