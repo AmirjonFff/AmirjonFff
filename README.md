@@ -6,97 +6,34 @@
 ###
 
 <div align="left">
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">JavaScript</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">TypeScript</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">React</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">Redux</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" title="Redux" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">HTML5</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">CSS3</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">Tailwind CSS</div>
-  </div>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS logo" title="Tailwind CSS" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="mui logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">Material UI</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="mui logo" title="Material UI" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">Node.js</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" title="Node.js" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">MongoDB</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" title="MongoDB" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">PostgreSQL</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" title="PostgreSQL" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">Figma</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" title="Figma" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">C#</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" title="C#" />
   <img width="12" />
-
-  <div style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-    <div style="position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px; border-radius: 5px; display: none; white-space: nowrap;">C++</div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" title="C++" />
 </div>
-
-<style>
-  div:hover > div {
-    display: block;
-  }
-</style>
-
-
 
 ###
 
