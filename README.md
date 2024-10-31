@@ -1,17 +1,10 @@
 <h2 align="left">Hi 👋! My name is Amirjan and I'm a frontend deweloper, from Tajikistan.</h2>
 
 ###
-<table style="border-collapse: collapse; border: 0;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 ###
 
 <div align="left">
