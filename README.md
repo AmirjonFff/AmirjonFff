@@ -42,12 +42,23 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" onclick="window.open('https://t.me/aking_0102', '_blank')" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" onclick="window.open('https://www.facebook.com/profile.php?id=61564632465779', '_blank')" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" onclick="window.open('https://www.instagram.com/af.tjk', '_blank')" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" onclick="window.open('https://www.linkedin.com/in/%D0%B0%D0%BC%D0%B8%D1%80%D0%B4%D0%B6%D0%BE%D0%BD%D0%B8-%D1%84%D0%B0%D0%B9%D0%B7%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4-1a7278304/', '_blank')" />
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" onclick="window.open('https://amir-my-portfolio.vercel.app/', '_blank')" />
+  <a href="https://t.me/aking_0102" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61564632465779" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+  <a href="https://www.instagram.com/af.tjk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BC%D0%B8%D1%80%D0%B4%D0%B6%D0%BE%D0%BD%D0%B8-%D1%84%D0%B0%D0%B9%D0%B7%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4-1a7278304/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://amir-my-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
 </div>
+
 
 
 ---
