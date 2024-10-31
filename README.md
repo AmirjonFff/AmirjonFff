@@ -11,7 +11,6 @@
     </td>
   </tr>
 </table>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmirjonFff&theme=dark&hide_border=false)
 ###
 
 ###
