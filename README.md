@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Amirjan and I'm a frontend deweloper, from Tajikistan.</h2>
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&card_width=400)
+![](https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=false&card_width=400)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmirjonFff&theme=dark&hide_border=false)
 ###
