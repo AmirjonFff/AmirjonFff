@@ -65,12 +65,10 @@
 <table border="0" width="100%">
   <tr>
     <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square" />
+      <img src="https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square" alt="Views" />
     </td>
     <td align="right">
-      <a href="https://github.com/AmirjonFff">
-        <img src="https://img.shields.io/badge/⚡_Available_for_projects-23272d?style=flat-square&color=2ea44f" />
-      </a>
+      <img src="https://img.shields.io/badge/🟢_Open_to_work-23272d?style=flat-square" alt="Open to work" />
     </td>
   </tr>
 </table>
