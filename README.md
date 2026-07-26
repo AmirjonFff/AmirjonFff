@@ -63,4 +63,8 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square)
+<p align="between">
+  <img src="https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Location-Tajikistan-181717?style=flat-square&logoColor=white" />
+</p>
 
