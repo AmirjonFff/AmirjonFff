@@ -62,9 +62,16 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square)
-<p align="between">
-  <img src="https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square" />
-  <img src="https://img.shields.io/badge/📍_Location-Tajikistan-181717?style=flat-square&logoColor=white" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square" />
+    </td>
+    <td align="right">
+      <a href="https://github.com/AmirjonFff">
+        <img src="https://img.shields.io/badge/⚡_Available_for_projects-23272d?style=flat-square&color=2ea44f" />
+      </a>
+    </td>
+  </tr>
+</table>
 
