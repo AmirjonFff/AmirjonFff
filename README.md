@@ -3,7 +3,6 @@
 ###
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AmirjonFff&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AmirjonFff&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmirjonFff&layout=compact&theme=radical" alt="Top Languages" />
 </p>
