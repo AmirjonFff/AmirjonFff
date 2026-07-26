@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmirjonFff&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&hide=stars"  height="155" alt="javascript logo" title="JavaScript" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=idibek2002&theme=dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&hide=stars"  height="155" alt="javascript logo" title="JavaScript" />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirjonFff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="155" alt="javascript logo" title="JavaScript" />
 </div>
 <br />
