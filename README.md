@@ -62,5 +62,5 @@
 
 
 ---
-![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=%F0%9F%90%81&query=value&url=https://api.countapi.xyz/hit/AmirjonFff/profile&color=21262d)
+![](https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square)
 
