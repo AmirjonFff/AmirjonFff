@@ -2,10 +2,16 @@
 
 ###
 <div align="center">
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AmirjonFff&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmirjonFff&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table border="0" align="center">
+  <tr>
+    <td valign="top">
+      <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AmirjonFff&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td valign="top">
+      <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmirjonFff&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 </div>
 <br />
 
