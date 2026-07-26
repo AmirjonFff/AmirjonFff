@@ -62,7 +62,7 @@
 
 
 ---
-<div align="center">
+<div>
       <img float="left" src="https://komarev.com/ghpvc/?username=AmirjonFff&label=%F0%9F%91%81%EF%B8%8F&color=23272d&style=flat-square" alt="Views" />
          <img float="right" src="https://img.shields.io/badge/🟢_Open_to_work-23272d?style=flat-square" alt="Open to work" />
    </div>
